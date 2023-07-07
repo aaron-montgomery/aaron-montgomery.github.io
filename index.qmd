@@ -2,12 +2,16 @@
 title: "Aaron M. Montgomery"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This website is under construction. Please pardon my dust!
 
 ```{r}
 1 + 1
 ```
 
-link to [blog](https://aaron-montgomery.github.io/amm_blog/)
+possible organization:
+
+* [blog](https://aaron-montgomery.github.io/amm_blog/)
+* polling
+* publications
+* media 
+* other projects?
